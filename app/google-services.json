@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316490589981",
+    "project_id": "travelio-app-8a77a",
+    "storage_bucket": "travelio-app-8a77a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316490589981:android:539656ea4a8f6125ec63f4",
+        "android_client_info": {
+          "package_name": "com.example.travelio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxXUKXga_biyE4ZDDT8K5JHIWOeznKlec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
